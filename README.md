@@ -35,7 +35,7 @@ A personal Android app to manage family Secret Santa gift exchanges — no ads, 
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/secret-santa.git
+git clone https://github.com/toadfish91/secret-santa.git
 cd secret-santa
 ```
 
