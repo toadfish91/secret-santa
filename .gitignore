@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local config — contains your SDK path, never commit this
+local.properties
+
+# Keystore files — NEVER commit these, keep them somewhere safe offline
+*.jks
+*.keystore
+*.p12
+
+# Release APKs — don't need to be in source control
+app/release/
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
